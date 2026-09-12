@@ -17,5 +17,5 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 		Duration = 1.5,
 	})
 else
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hyperionhax/c00lgui/main/Source.lua"))()
+loadstring(game:HttpGet("https://github.com/asiniiwelaronge16-collab/flamegui.git"))()
 end
